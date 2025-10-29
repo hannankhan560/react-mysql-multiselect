@@ -28,7 +28,7 @@ git clone https://github.com/hannankhan560/react-mysql-multiselect.git
 2. Navigate to the backend folder:
 
 ```bash
-cd backend
+cd ./backend
 ```
 
 3. Install dependencies:
@@ -87,7 +87,7 @@ npm run dev
 * After the backend is running, navigate to the frontend folder and start it:
 
 ```bash
-cd ../frontend
+cd ./frontend
 ```
 ```bash
 npm install
